@@ -1,0 +1,11 @@
+C:\GorselProgramlama-1\BalıkAvla\BalıkAvla\bin\Debug\BalıkAvla.exe.config
+C:\GorselProgramlama-1\BalıkAvla\BalıkAvla\bin\Debug\BalıkAvla.exe
+C:\GorselProgramlama-1\BalıkAvla\BalıkAvla\bin\Debug\BalıkAvla.pdb
+C:\GorselProgramlama-1\BalıkAvla\BalıkAvla\obj\Debug\BalıkAvla.csproj.AssemblyReference.cache
+C:\GorselProgramlama-1\BalıkAvla\BalıkAvla\obj\Debug\BalıkAvla.csproj.SuggestedBindingRedirects.cache
+C:\GorselProgramlama-1\BalıkAvla\BalıkAvla\obj\Debug\BalıkAvla.Form1.resources
+C:\GorselProgramlama-1\BalıkAvla\BalıkAvla\obj\Debug\BalıkAvla.Properties.Resources.resources
+C:\GorselProgramlama-1\BalıkAvla\BalıkAvla\obj\Debug\BalıkAvla.csproj.GenerateResource.cache
+C:\GorselProgramlama-1\BalıkAvla\BalıkAvla\obj\Debug\BalıkAvla.csproj.CoreCompileInputs.cache
+C:\GorselProgramlama-1\BalıkAvla\BalıkAvla\obj\Debug\BalıkAvla.exe
+C:\GorselProgramlama-1\BalıkAvla\BalıkAvla\obj\Debug\BalıkAvla.pdb

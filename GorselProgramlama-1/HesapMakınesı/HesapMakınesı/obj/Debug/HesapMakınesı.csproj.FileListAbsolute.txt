@@ -1,0 +1,11 @@
+C:\GorselProgramlama-1\HesapMakınesı\HesapMakınesı\bin\Debug\HesapMakınesı.exe.config
+C:\GorselProgramlama-1\HesapMakınesı\HesapMakınesı\bin\Debug\HesapMakınesı.exe
+C:\GorselProgramlama-1\HesapMakınesı\HesapMakınesı\bin\Debug\HesapMakınesı.pdb
+C:\GorselProgramlama-1\HesapMakınesı\HesapMakınesı\obj\Debug\HesapMakınesı.csproj.AssemblyReference.cache
+C:\GorselProgramlama-1\HesapMakınesı\HesapMakınesı\obj\Debug\HesapMakınesı.csproj.SuggestedBindingRedirects.cache
+C:\GorselProgramlama-1\HesapMakınesı\HesapMakınesı\obj\Debug\HesapMakınesı.Form1.resources
+C:\GorselProgramlama-1\HesapMakınesı\HesapMakınesı\obj\Debug\HesapMakınesı.Properties.Resources.resources
+C:\GorselProgramlama-1\HesapMakınesı\HesapMakınesı\obj\Debug\HesapMakınesı.csproj.GenerateResource.cache
+C:\GorselProgramlama-1\HesapMakınesı\HesapMakınesı\obj\Debug\HesapMakınesı.csproj.CoreCompileInputs.cache
+C:\GorselProgramlama-1\HesapMakınesı\HesapMakınesı\obj\Debug\HesapMakınesı.exe
+C:\GorselProgramlama-1\HesapMakınesı\HesapMakınesı\obj\Debug\HesapMakınesı.pdb

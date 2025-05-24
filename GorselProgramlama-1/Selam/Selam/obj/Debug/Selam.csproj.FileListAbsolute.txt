@@ -1,0 +1,11 @@
+C:\GorselProgramlama-1\Selam\Selam\bin\Debug\Selam.exe.config
+C:\GorselProgramlama-1\Selam\Selam\bin\Debug\Selam.exe
+C:\GorselProgramlama-1\Selam\Selam\bin\Debug\Selam.pdb
+C:\GorselProgramlama-1\Selam\Selam\obj\Debug\Selam.csproj.AssemblyReference.cache
+C:\GorselProgramlama-1\Selam\Selam\obj\Debug\Selam.csproj.SuggestedBindingRedirects.cache
+C:\GorselProgramlama-1\Selam\Selam\obj\Debug\Selam.bSelam.resources
+C:\GorselProgramlama-1\Selam\Selam\obj\Debug\Selam.Properties.Resources.resources
+C:\GorselProgramlama-1\Selam\Selam\obj\Debug\Selam.csproj.GenerateResource.cache
+C:\GorselProgramlama-1\Selam\Selam\obj\Debug\Selam.csproj.CoreCompileInputs.cache
+C:\GorselProgramlama-1\Selam\Selam\obj\Debug\Selam.exe
+C:\GorselProgramlama-1\Selam\Selam\obj\Debug\Selam.pdb
